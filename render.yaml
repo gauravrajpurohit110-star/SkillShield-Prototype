@@ -1,0 +1,12 @@
+﻿services:
+  - type: web
+    name: skillshield-prototype
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: node server.mjs
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 10000

@@ -1,0 +1,64 @@
+[
+  {
+    "email": "kaushimishra29@gmail.com",
+    "name": "Kaustubh Sharma",
+    "role": "seeker",
+    "profile": {
+      "education": "Grade 12 / upper secondary completed",
+      "experience": "0",
+      "targetRole": "Ethical Hacker",
+      "location": "Jaipur",
+      "workMode": "Hybrid"
+    },
+    "passwordSalt": "4bfd13cf18f0ac85fc8453b44b355e4f",
+    "passwordHash": "135ad831993eed7d0b193a729d834def8d33183e31afacd8fbf67d4de1f036ec41b33ab0c592cafce2ed096b631e69f5fc5fb9102a3c7b879c88feff720a2560",
+    "createdAt": "2026-10-30T10:16:01.599Z"
+  },
+  {
+    "email": "abc@gmail.com",
+    "name": "Kaustubh Sharma",
+    "role": "seeker",
+    "profile": {
+      "education": "Master's degree (MA, MS, MSc, MBA, or equivalent)",
+      "experience": "5",
+      "targetRole": "Ethical Hacker",
+      "location": "Jaipur",
+      "workMode": "Remote"
+    },
+    "passwordSalt": "d2f82f9f03516ec5fa26f4448bfc9d54",
+    "passwordHash": "9071b6d1140999ac8ed7fd7e7750a9e996c73a48e54de7645ddb692953080ea4170223945908ddbe6b13b37d662b7a890648f2752dcb4a1b9dfa7e06caa8a4b4",
+    "createdAt": "2026-10-30T10:19:32.945Z"
+  },
+  {
+    "email": "dfbdfb@gmail.com",
+    "name": "fgsdf",
+    "role": "employer",
+    "profile": {
+      "contactName": "GAURAV",
+      "industry": "Technology",
+      "size": "201–500 employees",
+      "location": "Poornima College of Engineering",
+      "website": "",
+      "about": "DFASDFA"
+    },
+    "passwordSalt": "ae0e5bcc1f16827bb9d4028c84d1bd23",
+    "passwordHash": "c2ed9a557d1aa46fdeff2f0a4bb4fec9fca98f4d474a85bdfbf9a305908604660961a55b9df14b918bba4e690b33d3113f57e56cb2741d93f8464c497a3ffc43",
+    "createdAt": "2026-10-30T17:42:37.100Z"
+  },
+  {
+    "email": "recruiter@cybercorp.com",
+    "name": "CyberCorp Recruiting",
+    "role": "employer",
+    "profile": {
+      "contactName": "Alice Recruiter",
+      "industry": "Technology",
+      "size": "51–200 employees",
+      "location": "Bangalore",
+      "website": "",
+      "about": "Leading cybersecurity firm"
+    },
+    "passwordSalt": "a2faec77868e3918be6928d9bddc782b",
+    "passwordHash": "38179b91fd65d64678093f62f59d96286e4eea08879e0ea4ff55fad314d0ac201dff0d059a0d3a90613e59f48c9dd8adfd41805f9471fe34ea43ea90493dc8de",
+    "createdAt": "2026-10-30T17:53:04.631Z"
+  }
+]

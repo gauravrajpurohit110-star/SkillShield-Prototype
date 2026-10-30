@@ -1,0 +1,82 @@
+[
+  {
+    "id": "job-mvv9t0ui-qs4p0",
+    "title": "Senior Penetration Tester",
+    "company": "CyberCorp",
+    "location": "Remote",
+    "mode": "Remote",
+    "skills": [
+      "Metasploit",
+      "Burp Suite",
+      "Web Application Security"
+    ],
+    "requiredDocs": [
+      "Resume",
+      "Certifications"
+    ],
+    "ownerEmail": "recruiter@cybercorp.com",
+    "by": "recruiter",
+    "createdAt": "2026-10-30T17:53:04.650Z"
+  },
+  {
+    "id": "job-sample-1",
+    "title": "Ethical Hacker / Penetration Tester",
+    "company": "CyberShield Systems",
+    "location": "Remote",
+    "mode": "Remote",
+    "skills": [
+      "Ethical Hacking",
+      "Network Security",
+      "Penetration Testing",
+      "Python"
+    ],
+    "requiredDocs": [
+      "Resume or CV",
+      "Security Certification (CEH/CompTIA)",
+      "ID Proof"
+    ],
+    "ownerEmail": "recruiter@cybershield.com",
+    "by": "recruiter",
+    "createdAt": "2026-10-30T17:52:41.633Z"
+  },
+  {
+    "id": "job-sample-2",
+    "title": "Junior SOC Analyst",
+    "company": "Apex Threat Intelligence",
+    "location": "Jaipur",
+    "mode": "Hybrid",
+    "skills": [
+      "SIEM",
+      "Incident Response",
+      "Wireshark",
+      "Linux"
+    ],
+    "requiredDocs": [
+      "Resume or CV",
+      "Academic Certificate"
+    ],
+    "ownerEmail": "hiring@apexthreat.com",
+    "by": "recruiter",
+    "createdAt": "2026-10-30T17:52:41.634Z"
+  },
+  {
+    "id": "job-sample-3",
+    "title": "Cloud Security Associate",
+    "company": "Nimbus Infotech",
+    "location": "On-site",
+    "mode": "On-site",
+    "skills": [
+      "Cloud Security",
+      "AWS/GCP",
+      "Firewalls",
+      "Docker"
+    ],
+    "requiredDocs": [
+      "Resume or CV",
+      "Cloud Certification"
+    ],
+    "ownerEmail": "jobs@nimbusinfo.com",
+    "by": "recruiter",
+    "createdAt": "2026-10-30T17:52:41.634Z"
+  }
+]

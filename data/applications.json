@@ -1,0 +1,30 @@
+[
+  {
+    "id": "app-mvv9t0xm-423ft",
+    "jobId": "job-mvv9t0ui-qs4p0",
+    "applicantName": "Kaustubh Sharma",
+    "candidateEmail": "kaushimishra29@gmail.com",
+    "employerEmail": "recruiter@cybercorp.com",
+    "title": "Senior Penetration Tester",
+    "company": "CyberCorp",
+    "location": "Remote",
+    "appliedAt": "2026-10-30",
+    "status": "Interview",
+    "owner": "recruiter",
+    "source": "SkillShield",
+    "note": "Very excited about this role!",
+    "documents": [],
+    "history": [
+      {
+        "status": "Applied",
+        "date": "30/10/2026",
+        "by": "Kaustubh Sharma"
+      },
+      {
+        "status": "Interview",
+        "date": "30/10/2026",
+        "by": "CyberCorp Recruiting"
+      }
+    ]
+  }
+]
